@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#API key
+/src/keys.js
+
 # production
 /build
 
