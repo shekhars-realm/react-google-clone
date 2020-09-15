@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 
 import AppsIcon from '@material-ui/icons/Apps';
 import Avatar from '@material-ui/core/Avatar';
-import TextField from '@material-ui/core/TextField';
 
 import Search from '../components/Search/Search'
 import './Home.css'
